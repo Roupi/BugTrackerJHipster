@@ -1,0 +1,50 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycompany.bugtracker",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "monolith",
+    "baseName": "BugTrackerJHipster",
+    "packageName": "com.mycompany.bugtracker",
+    "packageFolder": "com/mycompany/bugtracker",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjkyOGMyZTdmNjhlMmFkMjMxMzlhYWQwMWY4NGY3ZDAwMWQ2MTk2ZDQxM2M3MjY3NzA1NmRjNzhiOWUwMjVkY2M1NWE3OGIzZGE3NDNmNmNlNDk0NDY4YTU0NGY1MDBmMmMwNTY0OTA1ZDU1MGFhZWQyZjVhZDgzMWU1MzNiMmE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1579696553619,
+    "testFrameworks": [
+      "gatling",
+      "cucumber",
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "blueprints": []
+  }
+}
